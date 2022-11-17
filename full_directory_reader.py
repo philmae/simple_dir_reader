@@ -6,6 +6,13 @@
 Reads the directory and outputs all sub-dir and
 files within into a .txt file in a clean style
 
+Nothing fancy, nothing complex -> simple & straightforward. 
+
+How to:
+- Put the file into a root folder
+- Run Script
+- Output.txt will be generated in root folder
+
 '''
 
 import os
